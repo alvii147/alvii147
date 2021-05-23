@@ -8,3 +8,5 @@ I'm a 3<sup>rd</sup> year [Electrical Engineering](https://i.kym-cdn.com/photos/
 ![Stats](https://github-readme-stats.vercel.app/api?username=alvii147&show_icons=true&theme=onedark)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvii147&layout=compact&theme=onedark&hide=html,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvii147&theme=onedark)](https://git.io/streak-stats)
