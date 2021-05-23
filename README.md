@@ -6,11 +6,11 @@
 I'm a 3<sup>rd</sup> year [Electrical Engineering](https://i.kym-cdn.com/photos/images/original/001/890/988/b2f.jpg) student at the [University of Waterloo](https://i.redd.it/tdl8a93guj201.jpg) and a [Software Development](https://i.pinimg.com/originals/0e/d6/23/0ed623806cf3b9d805a8cb1e4c822daf.png) Intern at [Nokia](https://i.kym-cdn.com/photos/images/newsfeed/001/705/738/64d.jpg). When I'm not coding, I'm playing soccer or training dragons.  
 
 <p align="center">
-  <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=alvii147&show_icons=true&theme=onedark">
+  <img alt = "Github Streak" src = "https://github-readme-streak-stats.herokuapp.com/?user=alvii147&theme=onedark">
 </p>
   
 <p align="center">
-  <img alt = "Github Streak" src = "https://github-readme-streak-stats.herokuapp.com/?user=alvii147&theme=onedark">
+  <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=alvii147&show_icons=true&theme=onedark">
 </p>
   
 <p align="center">
