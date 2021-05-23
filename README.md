@@ -10,7 +10,6 @@ I'm a 3<sup>rd</sup> year [Electrical Engineering](https://i.kym-cdn.com/photos/
 </p>
   
 <p align="center">
-  <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=alvii147&show_icons=true&theme=onedark">&nbsp;&nbsp;&nbsp;
   <img alt = "Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alvii147&layout=compact&theme=onedark&hide=html,Makefile">
 </p>
   
