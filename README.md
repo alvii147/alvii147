@@ -1,4 +1,4 @@
-## Hello fellow coders and wanderers! Zahin here!
+## Greetings fellow coders and wanderers, Zahin here!
 [![](https://img.shields.io/badge/Email-0078d4?style=flat&logo=microsoft-outlook)](mailto:zm2zaman@uwaterloo.ca)
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahin-zaman)
 [![](https://img.shields.io/badge/Devpost-003e54?style=flat&logo=devpost)](https://devpost.com/alvii147)
