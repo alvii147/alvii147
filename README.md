@@ -1,4 +1,4 @@
-[![Support Palestine Banner](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://www.pcrf.net/)
+[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/github/banner-green.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
 
 ## Greetings, Zahin here!
 
