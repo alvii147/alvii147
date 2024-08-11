@@ -1,4 +1,4 @@
-[![Free Palestine](https://github.com/alvii147/hinds-banner/blob/main/github/free-palestine-classic.svg)](https://www.pcrf.net/)
+[![Free Palestine](https://hinds-banner.vercel.app/free-palestine?variant=classic)](https://www.pcrf.net/)
 
 ## Greetings, Zahin here!
 
